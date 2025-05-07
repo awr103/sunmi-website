@@ -21,7 +21,7 @@ export default function TokayGeckosPage() {
               I once saw one in mine!
             </p>
             <p className="text-gray-700 mb-4">
-              They don't like sunlight or cold weather.
+              They don&apos;t like sunlight or cold weather.
               Their favorite place to hide is inside tree cavities.
             </p>
           </section>

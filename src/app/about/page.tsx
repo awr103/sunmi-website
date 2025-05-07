@@ -13,7 +13,7 @@ export default function AboutPage() {
         </p>
 
         <p className="text-gray-700 mb-6">
-          I catch many insects and small creatures in my garden. I'm a big fan of 
+          I catch many insects and small creatures in my garden. I&apos;m a big fan of 
           isopods, fish, beetles, leopard geckos, knob-tailed geckos, and tokay geckos.
         </p>
 
@@ -22,14 +22,14 @@ export default function AboutPage() {
         </p>
 
         <p className="text-gray-700 mb-6">
-          Right now, I'm learning English and French!
+          Right now, I&apos;m learning English and French!
         </p>
 
         {/* Profile Image - smaller and centered */}
         <div className="mt-12 flex justify-center">
           <Image
             src="/images/Sonmi.jpg"
-            alt="Sunmi's profile picture"
+            alt="Sunmi&apos;s profile picture"
             width={320}
             height={240}
             className="object-cover rounded-lg mx-auto"
